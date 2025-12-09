@@ -1,4 +1,4 @@
-- 👋 Bienvenid@ a mi perfil de GitHub.
+- Bienvenid@ a mi perfil de GitHub.
   
     ✨ Soy una desarrolladora apasionada por crear soluciones innovadoras y aprender nuevas tecnologías. Aquí encontraras algunos de mis proyectos y contribuciones.
   
